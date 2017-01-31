@@ -1,6 +1,11 @@
 # ns_admin
 
-### This site will be Working with
+### Description
+- This site is an admin site not a homepage.
+- This site is a test site for my study.
+- This site have to worked with free solutions.
+
+### This site will be working with
 
 1. Window Server (not cloud server)
 2. ASP.net framework
@@ -11,10 +16,11 @@
 
 ### function
 
-1. count attendee
+1. --
 2. manage member
   2.1. new member
   2.2. current member
+  2.3. member group
 3. manage form 
   3.1. vehicle 
   3.2. spending resolution
